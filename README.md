@@ -30,7 +30,11 @@ El árbol filogenético, donde se corrobora que todas provienen de bacterias.
 
 ![imagen alineamiento](https://github.com/Peepcross/ENSOLEMNA2/blob/master/alinean2.png)
 
+El porcentaje de identidad entre las secuencias.
 
+![imagen porcentaje](https://github.com/Peepcross/ENSOLEMNA2/blob/master/porcentaje.png)
+
+A pesar de lo bajo del procentaje, aun se puede hablar de homología. Por lo que solo resta especificar si la relacion es convergente o divergente. Al analizar las funciones que cumple cada proteina observé que estas coincidian, pero al investigar sobre los nichos de cada organismos estos difirieron. Por esto puedo concluir de que se trata de una evolucion convergente, ya que distintos organismos de distintas zonas del mundo manifestaron el mismo comportamiento usando el mismo mecanismo proteico.
 
 
 
